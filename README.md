@@ -88,7 +88,94 @@ Kubespray support the ovn4nfv as the network plugin- please follow the steps in 
 
 For any questions about ovn4nfv k8s , feel free to ask a question in #general in the [ICN slack](https://akraino-icn-admin.herokuapp.com/), or open up a https://jira.opnfv.org/issues/.
 
-* Srinivasa Addepalli <srinivasa.r.addepalli@intel.com>
-* Ritu Sood <ritu.sood@intel.com>
-* Kuralamudhan Ramakrishnan <kuralamudhan.ramakrishnan@intel.com>
 
+/**
+ * Copyright © 2026 徐嘉糧 (GUBON LUCID OS / GUBON-EX). All rights reserved.
+ *
+ * 中文：
+ * 本系統之原始碼、系統架構、軟體設計、演算法邏輯、資料結構、
+ * 私有化簽章與驗證機制，以及相關商業流程與閉環設計，
+ * 其依法可受保護之權利，除另有明確書面約定外，均由權利人享有。
+ *
+ * English:
+ * The source code, system architecture, software design, algorithmic logic,
+ * data structures, sovereign signing and verification mechanisms, and
+ * related commercial workflows and closed-loop designs of this system,
+ * together with all rights legally protectable therein, are owned by the
+ * rights holder unless otherwise expressly agreed in writing.
+ *
+ * Unauthorized reproduction, distribution, modification, disclosure,
+ * sublicensing, or deployment is prohibited to the extent permitted by law.
+ */
+# Intellectual Property & Sovereign Notice
+
+Copyright © 2026 徐嘉糧  
+GUBON LUCID OS / GUBON-EX  
+All rights reserved.
+
+## 中文
+
+除另有明確書面授權或契約約定外，GUBON LUCID OS 及 GUBON-EX 所涉及之原始碼、軟體架構、系統設計、演算法與程式邏輯、資料結構、私有化簽章及驗證機制、商業流程、決策流程、產品設計及相關技術文件，其依法可受保護之智慧財產權及其他權利均由權利人享有。
+
+未經適當授權，任何人不得對受保護內容進行未經授權之複製、重製、修改、散布、公開傳輸、轉讓、再授權、商業利用或部署。
+
+本聲明不影響第三方軟體、開源元件、API、SDK、模型、服務或其他內容所適用之原有授權條款。
+
+---
+
+## English
+
+Unless expressly licensed or otherwise agreed in writing, all legally protectable intellectual property and other rights relating to GUBON LUCID OS and GUBON-EX, including source code, software architecture, system design, algorithms and program logic, data structures, sovereign signing and verification mechanisms, commercial workflows, decision processes, product designs, and related technical documentation, are owned by the rights holder.
+
+Without appropriate authorization, no person may reproduce, modify, distribute, publicly communicate, transfer, sublicense, commercially exploit, or deploy protected materials.
+
+Nothing in this notice overrides the applicable license terms of third-party software, open-source components, APIs, SDKs, models, services, or other third-party materials.
+
+# Third-Party & Open Source Notices
+
+GUBON LUCID OS / GUBON-EX incorporates various open-source software, third-party libraries, APIs, and SDKs (including but not limited to Node.js, React, Next.js, PostgreSQL, Prisma, Redis, BullMQ, and payment SDKs such as PayPal REST API v2). 
+
+Each third-party component remains subject to its respective original license terms (e.g., MIT, Apache 2.0, ISC). Nothing in the GUBON-EX proprietary licensing structure alters, supersedes, or restricts the rights and obligations granted under those respective open-source or third-party licenses.
+
+For detailed third-party dependency licenses, please refer to the respective package manifests (`package.json`) and upstream documentation.
+# Intellectual Property & Sovereign Notice
+
+Copyright © 2026 徐嘉糧
+GUBON LUCID OS / GUBON-EX
+All rights reserved.
+
+## 中文
+
+除另有明確書面授權或契約約定外，GUBON LUCID OS
+及 GUBON-EX 所涉及之原始碼、軟體架構、系統設計、
+演算法與程式邏輯、資料結構、私有化簽章及驗證機制、
+商業流程、決策流程、產品設計及相關技術文件，
+其依法可受保護之智慧財產權及其他權利均由權利人享有。
+
+未經適當授權，任何人不得對受保護內容進行未經授權之
+複製、重製、修改、散布、公開傳輸、轉讓、再授權、
+商業利用或部署。
+
+本聲明不影響第三方軟體、開源元件、API、SDK、模型、
+服務或其他內容所適用之原有授權條款。
+
+## English
+
+Unless expressly licensed or otherwise agreed in writing,
+all legally protectable intellectual property and other rights
+relating to GUBON LUCID OS and GUBON-EX, including source code,
+software architecture, system design, algorithms and program logic,
+data structures, sovereign signing and verification mechanisms,
+commercial workflows, decision processes, product designs,
+and related technical documentation, are owned by the rights holder.
+
+Without appropriate authorization, no person may reproduce,
+modify, distribute, publicly communicate, transfer, sublicense,
+commercially exploit, or deploy protected materials.
+
+Nothing in this notice overrides the applicable license terms
+of third-party software, open-source components, APIs, SDKs,
+models, services, or other third-party materials.
+
+eagle19900203@gmail.com
+gubonlucid.com
